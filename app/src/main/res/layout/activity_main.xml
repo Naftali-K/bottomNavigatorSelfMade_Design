@@ -95,6 +95,7 @@
             app:itemTextColor="@color/bottom_item_background"/>
 
         <!--
+         Что бы удалить background у BottomNavigationView, это делается кодом в Java Activity.
          app:labelVisibilityMode="labeled" - показывать title кнопок постояно
          -->
 
